@@ -365,7 +365,8 @@
     "category": "widget"
   },
   "Annotation": {
-    "path": "../../vendors/fc-ext-annotation/src/index"
+    "path": "../../vendors/fc-ext-annotation/src/index",
+    "category": "xTranscoder"
   },
   "XMLTranscoder": {
     "path": "../mantle/updater/xml-transcoder",
@@ -378,10 +379,12 @@
     "category": "xTranscoder"
   },
   "JSONUrlTranscoder": {
-    "path": "../mantle/updater/json-url-transcoder"
+    "path": "../mantle/updater/json-url-transcoder",
+    "category": "xTranscoder"
   },
   "XMLUrlTranscoder": {
-    "path": "../mantle/updater/xml-url-transcoder"
+    "path": "../mantle/updater/xml-url-transcoder",
+    "category": "xTranscoder"
   },
   "IgnoreCaseExt": {
     "path": "../mantle/updater/ignore_case_ext",
@@ -409,25 +412,32 @@
     "category": "xTranscoder"
   },
   "InteractionAdapter": {
-    "path": "../mantle/renderer-javascript/components/interaction-manager/interaction-adapter"
+    "path": "../mantle/renderer-javascript/components/interaction-manager/interaction-adapter",
+    "category": "xTranscoder"
   },
   "AlertManager": {
-    "path": "../mantle/renderer-javascript/components/alertmanager-linker"
+    "path": "../mantle/renderer-javascript/components/alertmanager-linker",
+    "category": "xTranscoder"
   },
   "MessageLogger": {
-    "path": "../mantle/renderer-javascript/components/msglogger-linker"
+    "path": "../mantle/renderer-javascript/components/msglogger-linker",
+    "category": "xTranscoder"
   },
   "RedRaphael": {
-    "path": "../mantle/renderer-javascript/redraphael/redraphael"
+    "path": "../mantle/renderer-javascript/redraphael/redraphael",
+    "category": "xTranscoder"
   },
   "RedRaphaelSVG": {
-    "path": "../mantle/renderer-javascript/redraphael/redraphael.svg"
+    "path": "../mantle/renderer-javascript/redraphael/redraphael.svg",
+    "category": "xTranscoder"
   },
   "VML": {
-    "path": "../mantle/renderer-javascript/redraphael/redraphael.vml"
+    "path": "../mantle/renderer-javascript/redraphael/redraphael.vml",
+    "category": "VML"
   },
   "RedRaphaelEXT": {
-    "path": "../mantle/renderer-javascript/redraphael/redraphael.ext"
+    "path": "../mantle/renderer-javascript/redraphael/redraphael.ext",
+    "category": "xTranscoder"
   },
   "BaseChart": {
     "path": "../mantle/renderer-javascript/charts/fusioncharts.basechart",
