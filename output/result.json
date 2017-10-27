@@ -1,0 +1,202 @@
+{
+    "Column2D": {
+        "path": "../mantle/renderer-javascript/charts/fusioncharts.column2d",
+        "description": "Visualize Data in Column2D",
+        "category": {
+            "categoryName": "chart",
+            "categoryIndex": 1,
+            "subcategoryIndex": 1
+        },
+        "displayName": "Column2D"
+    },
+    "Bar2D": {
+        "path": "../mantle/renderer-javascript/charts/fusioncharts.bar2d",
+        "description": "Visualize Data in Bar2D",
+        "category": {
+            "categoryName": "chart",
+            "categoryIndex": 1,
+            "subcategoryIndex": 2
+        },
+        "displayName": "Bar2D"
+    },
+    "Area2D": {
+        "path": "../mantle/renderer-javascript/charts/fusioncharts.area2d",
+        "description": "Visualize Data in Area2D",
+        "category": {
+            "categoryName": "chart",
+            "categoryIndex": 1,
+            "subcategoryIndex": 3
+        },
+        "displayName": "Area2D"
+    },
+    "DragArea": {
+        "path": "../mantle/renderer-javascript/charts/fusioncharts.dragarea.js",
+        "description": "Visualize Data in DragArea",
+        "category": {
+            "categoryName": "powerchart",
+            "categoryIndex": 2,
+            "subcategoryIndex": 1
+        },
+        "displayName": "DragArea"
+    },
+    "DragLine": {
+        "path": "../mantle/renderer-javascript/charts/fusioncharts.dragline.js",
+        "description": "Visualize Data in DragLine",
+        "category": {
+            "categoryName": "powerchart",
+            "categoryIndex": 2,
+            "subcategoryIndex": 2
+        },
+        "displayName": "DragLine"
+    },
+    "DragNode": {
+        "path": "../mantle/renderer-javascript/charts/fusioncharts.dragnode.js",
+        "description": "Visualize Data in DragNode",
+        "category": {
+            "categoryName": "powerchart",
+            "categoryIndex": 2,
+            "subcategoryIndex": 3
+        },
+        "displayName": "DragNode"
+    },
+    "LogMSColumn2d": {
+        "path": "../mantle/renderer-javascript/charts/fusioncharts.logmscolumn2d.js",
+        "description": "Visualize Data in LogMSColumn2d",
+        "category": {
+            "categoryName": "powerchart",
+            "categoryIndex": 2,
+            "subcategoryIndex": 4
+        },
+        "displayName": "LogMSColumn2d"
+    },
+    "LogStackedColumn2d": {
+        "path": "../mantle/renderer-javascript/charts/fusioncharts.logstackedcolumn2d.js",
+        "description": "Visualize Data in LogStackedColumn2d",
+        "category": {
+            "categoryName": "powerchart",
+            "categoryIndex": 2,
+            "subcategoryIndex": 5
+        },
+        "displayName": "LogStackedColumn2d"
+    },
+    "Hlineargauge": {
+        "path": "../mantle/renderer-javascript/charts/fusioncharts.hlineargauge",
+        "description": "Visualize Data in Hlineargauge",
+        "category": {
+            "categoryName": "widget",
+            "categoryIndex": 3,
+            "subcategoryIndex": 1
+        },
+        "displayName": "Hlineargauge"
+    },
+    "Vbullet": {
+        "path": "../mantle/renderer-javascript/charts/fusioncharts.vbullet",
+        "description": "Visualize Data in Vbullet",
+        "category": {
+            "categoryName": "widget",
+            "categoryIndex": 3,
+            "subcategoryIndex": 2
+        },
+        "displayName": "Vbullet"
+    },
+    "Hbullet": {
+        "path": "../mantle/renderer-javascript/charts/fusioncharts.hbullet",
+        "description": "Visualize Data in Hbullet",
+        "category": {
+            "categoryName": "widget",
+            "categoryIndex": 3,
+            "subcategoryIndex": 3
+        },
+        "displayName": "Hbullet"
+    },
+    "Annotation": {
+        "path": "../../vendors/fc-ext-annotation/src/index",
+        "category": {
+            "categoryName": "xTranscoder",
+            "categoryIndex": 4,
+            "subcategoryIndex": 1
+        },
+        "description": "Visualize Data in Annotation",
+        "displayName": "Annotation"
+    },
+    "XMLTranscoder": {
+        "path": "../mantle/updater/xml-transcoder",
+        "description": "Visualize Data in XMLTranscoder",
+        "category": {
+            "categoryName": "xTranscoder",
+            "categoryIndex": 4,
+            "subcategoryIndex": 2
+        },
+        "displayName": "XMLTranscoder"
+    },
+    "JSONTranscoder": {
+        "path": "../mantle/updater/json-transcoder",
+        "description": "Visualize Data in JSONTranscoder",
+        "category": {
+            "categoryName": "xTranscoder",
+            "categoryIndex": 4,
+            "subcategoryIndex": 3
+        },
+        "displayName": "JSONTranscoder"
+    },
+    "JSONUrlTranscoder": {
+        "path": "../mantle/updater/json-url-transcoder",
+        "category": {
+            "categoryName": "xTranscoder",
+            "categoryIndex": 4,
+            "subcategoryIndex": 4
+        },
+        "description": "Visualize Data in JSONUrlTranscoder",
+        "displayName": "JSONUrlTranscoder"
+    },
+    "Maps": {
+        "path": "../mantle/renderer-javascript/charts/fusioncharts.maps",
+        "description": "Visualize Data in Maps",
+        "displayName": "Maps",
+        "category": {
+            "categoryName": "map",
+            "categoryIndex": 5,
+            "subcategoryIndex": 1
+        }
+    },
+    "Aargau": {
+        "path": "../../vendors/xt-maps/source/maps/fusioncharts.aargau",
+        "description": "Visualize Data in Aargau",
+        "displayName": "Aargau",
+        "category": {
+            "categoryName": "map",
+            "categoryIndex": 5,
+            "subcategoryIndex": 2
+        }
+    },
+    "Malta": {
+        "path": "../../vendors/xt-maps/source/maps/fusioncharts.malta",
+        "description": "Visualize Data in Malta",
+        "displayName": "Malta",
+        "category": {
+            "categoryName": "map",
+            "categoryIndex": 5,
+            "subcategoryIndex": 3
+        }
+    },
+    "Abra": {
+        "path": "../../vendors/xt-maps/source/maps/fusioncharts.abra",
+        "description": "Visualize Data in Abra",
+        "displayName": "Abra",
+        "category": {
+            "categoryName": "map",
+            "categoryIndex": 5,
+            "subcategoryIndex": 4
+        }
+    },
+    "Manatuto": {
+        "path": "../../vendors/xt-maps/source/maps/fusioncharts.manatuto",
+        "description": "Visualize Data in Manatuto",
+        "displayName": "Manatuto",
+        "category": {
+            "categoryName": "map",
+            "categoryIndex": 5,
+            "subcategoryIndex": 5
+        }
+    }
+}

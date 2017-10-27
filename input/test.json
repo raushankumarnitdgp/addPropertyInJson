@@ -1,0 +1,88 @@
+{
+  "Column2D": {
+    "path": "../mantle/renderer-javascript/charts/fusioncharts.column2d",
+    "description": "Visualize data in columns",
+    "category": "chart"
+  },
+  "Bar2D": {
+    "path": "../mantle/renderer-javascript/charts/fusioncharts.bar2d",
+    "description": "Visualize data in Bars",
+    "category": "chart"
+  },
+  "Area2D": {
+    "path": "../mantle/renderer-javascript/charts/fusioncharts.area2d",
+    "description": "Visualize data in Areas",
+    "category": "chart"
+  },"DragArea": {
+    "path": "../mantle/renderer-javascript/charts/fusioncharts.dragarea.js",
+    "description": "Visualize data in DragArea",
+    "category": "powerchart"
+  },
+  "DragLine": {
+    "path": "../mantle/renderer-javascript/charts/fusioncharts.dragline.js",
+    "description": "Visualize data in DragLine",
+    "category": "powerchart"
+  },
+  "DragNode": {
+    "path": "../mantle/renderer-javascript/charts/fusioncharts.dragnode.js",
+    "description": "Visualize data in DragNode",
+    "category": "powerchart"
+  },
+  "LogMSColumn2d": {
+    "path": "../mantle/renderer-javascript/charts/fusioncharts.logmscolumn2d.js",
+    "description": "Visualize data in LogMSColumn2d",
+    "category": "powerchart"
+  },
+  "LogStackedColumn2d": {
+    "path": "../mantle/renderer-javascript/charts/fusioncharts.logstackedcolumn2d.js",
+    "description": "Visualize data in LogStackedColumn2d",
+    "category": "powerchart"
+  },
+  "Hlineargauge": {
+    "path": "../mantle/renderer-javascript/charts/fusioncharts.hlineargauge",
+    "description": "Visualize data in Hlineargauge",
+    "category": "widget"
+  },
+  "Vbullet": {
+    "path": "../mantle/renderer-javascript/charts/fusioncharts.vbullet",
+    "description": "Visualize data in Vbullet",
+    "category": "widget"
+  },
+  "Hbullet": {
+    "path": "../mantle/renderer-javascript/charts/fusioncharts.hbullet",
+    "description": "Visualize data in Hbullet",
+    "category": "widget"
+  },
+  "Annotation": {
+    "path": "../../vendors/fc-ext-annotation/src/index",
+    "category": "xTranscoder"
+  },
+  "XMLTranscoder": {
+    "path": "../mantle/updater/xml-transcoder",
+    "description": "XMLTranscoder",
+    "category": "xTranscoder"
+  },
+  "JSONTranscoder": {
+    "path": "../mantle/updater/json-transcoder",
+    "description": "JSONTranscoder",
+    "category": "xTranscoder"
+  },
+  "JSONUrlTranscoder": {
+    "path": "../mantle/updater/json-url-transcoder",
+    "category": "xTranscoder"
+  },"Maps": {
+    "path": "../mantle/renderer-javascript/charts/fusioncharts.maps"
+  },
+  "Aargau": {
+    "path": "../../vendors/xt-maps/source/maps/fusioncharts.aargau"
+  },
+  "Malta": {
+    "path": "../../vendors/xt-maps/source/maps/fusioncharts.malta"
+  },
+  "Abra": {
+    "path": "../../vendors/xt-maps/source/maps/fusioncharts.abra"
+  },
+  "Manatuto": {
+    "path": "../../vendors/xt-maps/source/maps/fusioncharts.manatuto"
+  }
+}
